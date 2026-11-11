@@ -31,6 +31,7 @@ I created this repository to improve my problem-solving skills and strengthen my
 | Day 02 | Add Binary | Easy | Java |
 | Day 03 | Simplify Path | Medium | Java |
 | Day 04 | Best Time to Buy and Sell Stock | Easy | Java |
+| Day 05 | Maximum Subarray | Medium | Java |
 
 *More problems will be added daily.*
 
