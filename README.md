@@ -32,6 +32,7 @@ I created this repository to improve my problem-solving skills and strengthen my
 | Day 03 | Simplify Path | Medium | Java |
 | Day 04 | Best Time to Buy and Sell Stock | Easy | Java |
 | Day 05 | Maximum Subarray | Medium | Java |
+| Day 06 | Product of Array Except Self | Medium | Java |
 
 *More problems will be added daily.*
 
